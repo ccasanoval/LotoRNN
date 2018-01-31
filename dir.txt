@@ -1,0 +1,6 @@
+http://www.loteria.es/primitiva/?fuseaction=historicos
+
+http://www.lotoideas.com/primitiva-resultados-historicos-de-todos-los-sorteos/
+
+https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+
